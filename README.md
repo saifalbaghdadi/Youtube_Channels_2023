@@ -48,7 +48,7 @@ Trending Topics: Investigate how certain categories gain popularity over time an
 Data Source: The dataset was meticulously compiled from various reputable sources, ensuring accuracy and reliability of the information presented.
 
 - More info: 
-My link on → [Kaggle](https://appsdeployment.streamlit.app/) with dataset
+My link on → [Kaggle]([https://appsdeployment.streamlit.app/](https://www.kaggle.com/code/saifalbaghdadi6/data-analysis-of-youtube-channels)) with dataset
 
 
 ## Installation
