@@ -1,15 +1,15 @@
 ## Welcome to Youtube Channels2023
 
 ### About Dataset
--Description:
+- Description:
 Welcome to the captivating realm of YouTube stardom, where this meticulously curated dataset unveils the statistics of the most subscribed YouTube channels. A collection of YouTube giants, this dataset offers a perfect avenue to analyze and gain valuable insights from the luminaries of the platform. With comprehensive details on top creators' subscriber counts, video views, upload frequency, country of origin, earnings, and more, this treasure trove of information is a must-explore for aspiring content creators, data enthusiasts, and anyone intrigued by the ever-evolving online content landscape. Immerse yourself in the world of YouTube success and unlock a wealth of knowledge with this extraordinary dataset.
 
--For more related datasets:
+- For more related datasets:
 Global Missing Migrants Dataset( New ) 
 Global Weather Repository ( Daily snapshot ) ( New )
 Indian Weather Repository ( Daily snapshot ( New ) ) 
 
--Key Features:
+- Key Features:
 rank: Position of the YouTube channel based on the number of subscribers
 Youtuber: Name of the YouTube channel
 subscribers: Number of subscribers to the channel
@@ -47,7 +47,7 @@ Geospatial Visualization: Visualize the distribution of successful YouTube chann
 Trending Topics: Investigate how certain categories gain popularity over time and correlate with world events.
 Data Source: The dataset was meticulously compiled from various reputable sources, ensuring accuracy and reliability of the information presented.
 
--More info: 
+- More info: 
 My link on → [Kaggle](https://appsdeployment.streamlit.app/) with dataset
 
 
@@ -58,10 +58,7 @@ Clone the repository:
 https://github.com/saifalbaghdadi/Youtube_Channels_2023.git
 ```
 
-* In Terminal Run: 
-
-* To install one of the Libraries , write in the terminal :
-  <h6 align="center"> " pip install -r requirement.txt" </h6>
+* Library required
  
 
 ```
